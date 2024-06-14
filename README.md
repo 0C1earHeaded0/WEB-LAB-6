@@ -810,7 +810,7 @@
 ```
 
 
-<h1 align = "center">Результат HTML</h1>
+<h1 align = "center">Результат:</h1>
 
 <ol>
   <li>
